@@ -1,3 +1,4 @@
+Note: The version in this repo adds line numbering to geshifield.
 
 ============================
 GeSHi Filter (Drupal Module)
